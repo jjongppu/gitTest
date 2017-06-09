@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -13,10 +13,5 @@
+     <div>
+         <a href="register.html">회원가입하기</a>
+     </div>
+-    <img src="img/"/>
+-    <ul>
+-        <li>branch1</li>
+-        꺄
+-    </ul>
+ </body>
+ </html>
